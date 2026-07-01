@@ -1,6 +1,5 @@
 # Intelligent Security Incident Processing Platform
 
-
 > AI-driven incident triage for Security Operations Centers — from raw event to audit-ready decision, with a human always in the loop.
 
 *Scroll down for the German version / Deutsche Version weiter unten.*
@@ -14,6 +13,12 @@ The Intelligent Security Incident Processing Platform automates security inciden
 Incoming events are transformed into structured data and evaluated against a clearly defined decision framework. This reduces false positives while ensuring relevant incidents are reliably identified.
 
 By combining deterministic processing with targeted expert validation, the platform delivers incident assessments that are consistent, transparent, and fully auditable — making security operations faster, more scalable, and easier to govern.
+
+<p align="center">
+  <img src="Images/Blueprint_vs_Enterprise_SOC_01.jpg" alt="Community Blueprint vs. Enterprise Edition" width="800">
+</p>
+
+<p align="center"><em>Community Blueprint vs. Enterprise Edition — same decision engine, different depth of integration.</em></p>
 
 ---
 
@@ -137,6 +142,12 @@ Die Intelligent Security Incident Processing Platform automatisiert die Verarbei
 Eingehende Ereignisse werden strukturiert aufbereitet und anhand einer klar definierten Entscheidungslogik bewertet. Das reduziert Fehlalarme und stellt sicher, dass relevante Vorfälle zuverlässig erkannt werden.
 
 Durch die Kombination aus deterministischer Verarbeitung und gezielter fachlicher Validierung entstehen konsistente, nachvollziehbare und revisionssichere Incident-Bewertungen — Sicherheitsprozesse werden dadurch effizienter, transparenter und deutlich skalierbarer.
+
+<p align="center">
+  <img src="Images/Blueprint_vs_Enterprise_SOC_01.jpg" alt="Community Blueprint vs. Enterprise Edition" width="800">
+</p>
+
+<p align="center"><em>Community Blueprint vs. Enterprise Edition — dieselbe Entscheidungslogik, unterschiedliche Integrationstiefe.</em></p>
 
 ---
 

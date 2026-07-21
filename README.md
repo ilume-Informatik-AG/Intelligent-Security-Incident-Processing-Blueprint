@@ -14,7 +14,9 @@ Incoming events are transformed into structured data and evaluated against a cle
 
 By combining deterministic processing with targeted expert validation, the platform delivers incident assessments that are consistent, transparent, and fully auditable — making security operations faster, more scalable, and easier to govern.
 
-
+<p align="center">
+  <img src="Images/Blueprint_vs_Enterprise_SOC_01.jpg" alt="Community Blueprint vs. Enterprise Edition" width="800">
+</p>
 
 ---
 
@@ -139,7 +141,9 @@ Eingehende Ereignisse werden strukturiert aufbereitet und anhand einer klar defi
 
 Durch die Kombination aus deterministischer Verarbeitung und gezielter fachlicher Validierung entstehen konsistente, nachvollziehbare und revisionssichere Incident-Bewertungen — Sicherheitsprozesse werden dadurch effizienter, transparenter und deutlich skalierbarer.
 
-
+<p align="center">
+  <img src="Images/Blueprint_vs_Enterprise_SOC_01.jpg" alt="Community Blueprint vs. Enterprise Edition" width="800">
+</p>
 ---
 
 ## Überblick
